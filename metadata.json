@@ -1,0 +1,5 @@
+{
+  "name": "Encryption Diagram",
+  "description": "A modern, minimalist dark theme diagram comparing E2EE and HTTPS/TLS encryption.",
+  "requestFramePermissions": []
+}
